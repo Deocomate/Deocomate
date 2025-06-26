@@ -1,5 +1,5 @@
-<h1 align="center">Chào bạn 👋, tôi là Minh Long (Deocomate)</h1>
-<h3 align="center">Một Lập trình viên Full-Stack đa năng đến từ Việt Nam 🇻🇳</h3>
+<h1 align="center">Hi there 👋, I'm Minh Long (Deocomate)</h1>
+<h3 align="center">A versatile Full-Stack Developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
   <a href="https://github.com/Deocomate?tab=repositories">
@@ -10,76 +10,76 @@
   </a>
 </p>
 
-Tôi là một nhà phát triển phần mềm với niềm đam mê xây dựng các giải pháp kỹ thuật số sáng tạo. Tôi có kinh nghiệm phát triển các ứng dụng web và di động phức tạp, các trang web thương mại điện tử và các công cụ hữu ích giúp tự động hóa công việc.
+I'm a software developer with a passion for building innovative digital solutions. I have experience in developing complex web and mobile applications, e-commerce sites, and useful tools to automate work.
 
 ---
 
-- 🔭 **Hiện tại, tôi đang tập trung vào:**
-  - Xây dựng và phát triển các dự án thương mại điện tử với **React** và **Node.js**.
-  - Khám phá phát triển ứng dụng di động đa nền tảng với **React Native**.
-  - Tạo ra các công cụ tiện ích cho lập trình viên.
+- 🔭 **I’m currently focusing on:**
+  - Building and developing e-commerce projects with **React** and **Node.js**.
+  - Exploring cross-platform mobile application development with **React Native**.
+  - Creating utility tools for developers.
 
-- 🌱 **Tôi đang học hỏi và trau dồi thêm:**
-  - Kiến trúc microservices để xây dựng các hệ thống lớn, dễ bảo trì.
-  - Các kỹ thuật tối ưu hóa hiệu năng cho cả front-end và back-end.
-  - Khám phá thêm về **Vue.js** và hệ sinh thái của nó.
+- 🌱 **I’m currently learning:**
+  - Microservices architecture to build large, maintainable systems.
+  - Performance optimization techniques for both front-end and back-end.
+  - Exploring more about **Vue.js** and its ecosystem.
 
-- 💬 **Hãy hỏi tôi về:**
+- 💬 **Ask me about:**
   - **JavaScript** (ES6+), **React**, **Node.js**, **Vue.js**.
-  - **PHP**, đặc biệt là với framework **Laravel**.
-  - Xây dựng RESTful APIs và kiến trúc hệ thống.
+  - **PHP**, especially with the **Laravel** framework.
+  - Building RESTful APIs and system architecture.
 
-- 📫 **Cách liên hệ với tôi:**
+- 📫 **How to reach me:**
   - **Email:** [longnvm2003@gmail.com](mailto:longnvm2003@gmail.com)
-  - **LinkedIn:** (Thêm link LinkedIn của bạn ở đây)
+  - **LinkedIn:** (Add your LinkedIn link here)
 
 ---
 
-<h3 align="center">🚀 Một Vài Dự Án Nổi Bật Của Tôi</h3>
+<h3 align="center">🚀 Some of My Featured Projects</h3>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center"><a href="https://github.com/Deocomate/pharmacy-ecommerce-web-fullstack">Hệ thống Thương mại Điện tử Nhà thuốc</a></h4>
-      <p>Một trang web e-commerce đầy đủ chức năng được xây dựng bằng JavaScript và PHP, phục vụ cho việc kinh doanh dược phẩm trực tuyến.</p>
+      <h4 align="center"><a href="https://github.com/Deocomate/pharmacy-ecommerce-web-fullstack">Pharmacy E-commerce System</a></h4>
+      <p>A full-featured e-commerce website built with JavaScript and PHP for the online pharmacy business.</p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center"><a href="https://github.com/Deocomate/book-store-mobile-react-native">Ứng dụng Nhà sách Di động</a></h4>
-      <p>Một ứng dụng di động được viết bằng React Native, cho phép người dùng duyệt và mua sách một cách thuận tiện trên điện thoại.</p>
+      <h4 align="center"><a href="https://github.com/Deocomate/book-store-mobile-react-native">Mobile Bookstore Application</a></h4>
+      <p>A mobile application written in React Native, allowing users to conveniently browse and purchase books on their phones.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center"><a href="https://github.com/Deocomate/kingexpressbus.com">Website Đặt vé xe King Express</a></h4>
-      <p>Dự án website cho phép người dùng xem lịch trình và đặt vé xe khách, được xây dựng chủ yếu với JavaScript và PHP/Laravel.</p>
+      <h4 align="center"><a href="https://github.com/Deocomate/kingexpressbus.com">King Express Bus Ticket Booking Website</a></h4>
+      <p>A website project that allows users to view schedules and book bus tickets, primarily built with JavaScript and PHP/Laravel.</p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center"><a href="https://github.com/Deocomate/api-auto-tester-pro">Công cụ Kiểm thử API Tự động</a></h4>
-      <p>Một ứng dụng web đơn giản giúp các lập trình viên kiểm tra các điểm cuối (endpoints) API một cách nhanh chóng và hiệu quả.</p>
+      <h4 align="center"><a href="https://github.com/Deocomate/api-auto-tester-pro">Automated API Testing Tool</a></h4>
+      <p>A simple web application that helps developers test API endpoints quickly and efficiently.</p>
     </td>
   </tr>
     <tr>
     <td width="50%" valign="top">
-      <h4 align="center"><a href="https://github.com/Deocomate/kids.evo.edu.dev">Dự án Giáo dục cho Trẻ em</a></h4>
-      <p>Một ứng dụng giáo dục tương tác được xây dựng bằng Vue.js, mang đến trải nghiệm học tập thú vị cho trẻ em.</p>
+      <h4 align="center"><a href="https://github.com/Deocomate/kids.evo.edu.dev">Educational Project for Kids</a></h4>
+      <p>An interactive educational application built with Vue.js, providing an enjoyable learning experience for children.</p>
     </td>
     <td width="50%" valign="top">
       <h4 align="center"><a href="https://github.com/Deocomate/minecraft-clone-unity-2">Minecraft Clone</a></h4>
-      <p>Một thử nghiệm thú vị trong lĩnh vực phát triển game, tái tạo lại các cơ chế cơ bản của trò chơi Minecraft bằng C# và Unity.</p>
+      <p>An interesting experiment in game development, recreating the basic mechanics of the Minecraft game using C# and Unity.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-<h3 align="center">💻 Ngôn ngữ và Công cụ</h3>
+<h3 align="center">💻 Languages and Tools</h3>
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/></a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>  
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" alt="laravel" width="40" height="40"/></a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
     <a href="https://www.csharpcorner.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/></a>
@@ -88,7 +88,7 @@ Tôi là một nhà phát triển phần mềm với niềm đam mê xây dựng
 
 ---
 
-<h3 align="center">📊 Thống kê GitHub của tôi</h3>
+<h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deocomate&show_icons=true&locale=en&theme=dracula&rank_icon=github" alt="deocomate" />
 </p>
