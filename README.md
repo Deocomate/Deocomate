@@ -31,7 +31,7 @@ I'm a software developer with a passion for building innovative digital solution
 
 - 📫 **How to reach me:**
   - **Email:** [longnvm2003@gmail.com](mailto:longnvm2003@gmail.com)
-  - **LinkedIn:** (Add your LinkedIn link here)
+  - **LinkedIn:** ()
 
 ---
 
