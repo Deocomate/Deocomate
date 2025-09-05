@@ -1,15 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Minh Long (Deocomate)</h1>
 <h3 align="center">A versatile Full-Stack Developer from Vietnam 🇻🇳</h3>
 
-<p align="center">
-  <a href="https://github.com/Deocomate?tab=repositories">
-    <img alt="Repositories" title="All Repositories" src="https://img.shields.io/github/directory-file-count/Deocomate/Deocomate?label=Repositories&style=for-the-badge&type=dir&color=007bff" />
-  </a>
-  <a href="https://github.com/Deocomate?tab=followers">
-    <img alt="Followers" title="Followers" src="https://img.shields.io/github/followers/Deocomate?label=Followers&style=for-the-badge&logo=github&color=007bff" />
-  </a>
-</p>
-
 I'm a software developer with a passion for building innovative digital solutions. I have experience in developing complex web and mobile applications, e-commerce sites, and useful tools to automate work.
 
 ---
