@@ -6,11 +6,11 @@
 
 ## 👋 About Me
 
-Tôi là một **Full-Stack Developer** đến từ Việt Nam với niềm đam mê xây dựng các giải pháp số sáng tạo. Tôi có kinh nghiệm phát triển ứng dụng web, mobile và game.
+Tôi là một **Full-Stack Developer** đến từ Việt Nam với niềm đam mê xây dựng các giải pháp số sáng tạo. Tôi có kinh nghiệm phát triển đa dạng từ ứng dụng web, mobile, desktop cho đến game và các công cụ tiện ích cho lập trình viên.
 
-- 🔭 **Đang tập trung:** E-commerce với React/Laravel, Mobile Apps với React Native
-- 🌱 **Đang học:** Microservices Architecture, Performance Optimization
-- 💬 **Hỏi tôi về:** JavaScript, React, Node.js, PHP/Laravel, Vue.js
+- 🔭 **Đang tập trung:** Web/App Fullstack, Desktop Apps (Electron/WinForms)
+- 🌱 **Đang học:** Microservices Architecture, Performance Optimization, AI Tools Integration
+- 💬 **Hỏi tôi về:** JavaScript, React, Node.js, PHP/Laravel, C#, Python
 
 ---
 
@@ -18,22 +18,33 @@ Tôi là một **Full-Stack Developer** đến từ Việt Nam với niềm đam
 
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | JavaScript, TypeScript, React, React Native, Vue.js, Tailwind CSS, Bootstrap |
+| **Frontend** | JavaScript, TypeScript, React, React Native, Vue.js, Tailwind CSS, Bootstrap, HTML/CSS |
 | **Backend** | Node.js, PHP, Laravel, Python, MySQL, MongoDB |
-| **Game Dev** | Unity, C#, Python/Pygame |
-| **Tools** | Git, Docker, Figma, VS Code |
+| **Desktop / Game** | Electron, C# (.NET/WinForms), Unity, Python/Pygame |
+| **Tools & CI/CD** | Git, Docker, Figma, VS Code |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 E-commerce & Booking Systems
+### 🛒 E-commerce & Web Systems
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Pharmacy E-commerce**](https://github.com/Deocomate/pharmacy-ecommerce-web-fullstack) | Hệ thống thương mại điện tử đầy đủ tính năng cho nhà thuốc online | JavaScript, PHP, Laravel, MySQL |
-| [**JoyTravel**](https://github.com/Deocomate/joytravel-12-2025) | Hệ thống đặt tour du lịch với quản lý tour và analytics | PHP 8.2, Laravel 12, AdminLTE, Tailwind |
-| [**KingExpress Bus**](https://github.com/Deocomate/kingexpressbus-12-2025) | Nền tảng đặt vé xe khách với quản lý lịch trình | JavaScript, PHP, Laravel |
+| [**TH Ceramics Fullstack**](https://github.com/Deocomate/th-ceramics-fullstack) | Hệ thống Fullstack toàn diện cho cửa hàng gốm sứ TH Ceramics | JavaScript, React, Node.js |
+| [**The Admirable Website**](https://github.com/Deocomate/the-admirable-fullstack) | Website Fullstack hoàn chỉnh cho The Admirable | React, Node.js, MongoDB |
+| [**JoyTravel**](https://github.com/Deocomate/joytravel-12-2025) | Hệ thống đặt tour du lịch với quản lý tour và analytics | PHP 8.2, Laravel 12, Tailwind |
+| [**KingExpress Bus**](https://github.com/Deocomate/kingexpressbus-12-2025) | Nền tảng đặt vé xe khách với quản lý lịch trình chi tiết | PHP, Laravel, JavaScript |
+| [**Pharmacy E-commerce**](https://github.com/Deocomate/pharmacy-ecommerce-web-fullstack) | Hệ thống thương mại điện tử đầy đủ tính năng cho nhà thuốc online | PHP, Laravel, MySQL |
+
+### 💻 Desktop Apps & Developer Tools
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Codebase Tracker (Electron)**](https://github.com/Deocomate/codebase-tracker-electron) | Ứng dụng Desktop giúp theo dõi codebase trên Windows | Electron, JavaScript |
+| [**VSCode Clipboard Helper**](https://github.com/Deocomate/vscode-clipboard-helper) | Extension/Tool hỗ trợ quản lý Clipboard cho VS Code | TypeScript/JavaScript |
+| [**Simple Sound Booster**](https://github.com/Deocomate/simple-sound-booster) | App điều khiển Preamp Equalizer APO để tăng âm lượng 100-500% | C#, WinForms |
+| [**Claude Code CLI Hook**](https://github.com/Deocomate/claude-code-cli-add-codebase-context-hook) | Hook hỗ trợ tự động add codebase context cho Claude Code CLI | Shell/Python |
 
 ### 📱 Mobile Applications
 
@@ -41,31 +52,24 @@ Tôi là một **Full-Stack Developer** đến từ Việt Nam với niềm đam
 |---------|-------------|------|
 | [**Mobile Bookstore**](https://github.com/Deocomate/book-store-mobile-react-native) | Ứng dụng mobile đa nền tảng cho việc mua bán sách | React Native, JavaScript |
 
-### 🎮 Game Development
+### 🎮 Game Development & Education
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**Minecraft Clone**](https://github.com/Deocomate/minecraft-clone-unity-2) | Game 3D voxel-based tái tạo cơ chế Minecraft | C#, Unity |
-| [**HAU Active Game**](https://github.com/Deocomate/hau-active-game) | Game tương tác với Python | Python, Pygame |
-
-### 🔧 Developer Tools & Education
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**API Tester Pro**](https://github.com/Deocomate/api-auto-tester-pro) | Công cụ test API nhanh chóng và hiệu quả | HTML, JavaScript, CSS |
-| [**Online Code Editor**](https://github.com/Deocomate/online-code-editor) | Code editor trực tuyến với syntax highlighting | JavaScript, HTML, CSS |
-| [**Kids Edu Platform**](https://github.com/Deocomate/kids.evo.edu.dev) | Nền tảng giáo dục tương tác cho trẻ em | Vue.js |
+| [**HAU Active Game**](https://github.com/Deocomate/hau-active-game) | Game tương tác học thuật | Python, Pygame |
+| [**Efis Knowledge Base**](https://github.com/Deocomate/efis-knowledge-base) | Nền tảng quản trị tri thức/tài liệu cho tổ chức Efis | Web Technologies |
 
 ---
 
 ## 💼 What I Offer
 
-| Web Development | Mobile Development | Game Development |
-|:---------------:|:------------------:|:----------------:|
-| Full-stack web apps | Cross-platform mobile apps | 2D/3D games với Unity |
-| E-commerce solutions | React Native development | Game logic & mechanics |
-| Admin dashboards | Native-like performance | Python game scripting |
-| RESTful API design | Clean UI/UX | Interactive experiences |
+| Web & Mobile Dev | Desktop Apps & Tools | Game & Interactive |
+|:----------------:|:--------------------:|:------------------:|
+| Full-stack web platforms | Electron & WinForms apps | 2D/3D games với Unity |
+| E-commerce solutions | VS Code Extensions | Game logic & mechanics |
+| React Native Mobile apps | CLI tools & AI integrations| Python game scripting |
+| RESTful API design | System utilities | Interactive experiences |
 
 ---
 
